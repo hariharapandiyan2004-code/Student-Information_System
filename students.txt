@@ -1,2 +1,0 @@
-S001|John Doe|20|85.5|9876543210
-S002|Jane Smith|21|92.0|jane@example.com
